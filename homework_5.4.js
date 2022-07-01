@@ -1,4 +1,4 @@
-// Задание 1 вариант 1
+// Задание 3 вариант 1
 
 let inputData = prompt("Введите значение, которое хотите отзеркалить");
 
@@ -12,7 +12,7 @@ function reversData(string) {
 
 console.log(reversData(inputData));
 
-// Задание 1 вариант 2
+// Задание 3 вариант 2
 
 let inputData1 = prompt("Введите значение, которое хотите отзеркалить");
 
@@ -25,7 +25,7 @@ function reversData1(string) {
 
 console.log(reversData1(inputData1));
 
-// Задание 2
+// Задание 4
 
 function random(min, max) {
   min = Math.ceil(min);
